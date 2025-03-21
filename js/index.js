@@ -6,6 +6,10 @@
 function greetProgrammer() {
   console.log("Hello, programmer!");
 }
+def greetProgrammer():
+    print("Hello, programmer!")
+    return "Hello, programmer!"
+
 
 /*
   You should be able to call this function with one argument and see its output in the terminal:
